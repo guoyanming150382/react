@@ -1,0 +1,7 @@
+
+会报错，
+	core-js版本过高
+
+
+解决：
+	cnpm install core-js@2
